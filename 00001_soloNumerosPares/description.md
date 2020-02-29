@@ -1,7 +1,7 @@
 Define a function `onlyEvenNumbers`, that returns a `List` where all numbers are even. That is, all odd numbers have been removed. 
 
 ```haskell 
-Main> onlyEvenNumbers [8, 7, 6, 5] 
+Main> soloNumerosPares [8, 7, 6, 5] 
 [8, 6]
 ```
 
