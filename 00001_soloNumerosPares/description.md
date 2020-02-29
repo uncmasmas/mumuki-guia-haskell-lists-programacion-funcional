@@ -1,9 +1,10 @@
-Define a function `onlyEvenNumbers`, that returns a `List` where all numbers are even. That is, all odd numbers have been removed. 
+Definir una función llamdaa `soloNumerosPares`  que tome una `Lista` de números, y retorne una `Lista` con todos los números pares. Es decir, eliminando todos los números impares.
 
 ```haskell 
 Main> soloNumerosPares [8, 7, 6, 5] 
 [8, 6]
 ```
 
-In your solution reuse the functions `filter` and `even`. `onlyEvenNumbers` must not use recursion.
+Para definir la función `soloNumerosPares`deben utilizar las funciones `filter`y `even`. `soloNumerosPares` no debe utilizar recursión.
+
 
